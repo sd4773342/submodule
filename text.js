@@ -1,5 +1,5 @@
 function test () {
-  console.log('子模块a');
+  console.log('子模块master');
 }
-alert(11)
+alert('子模块master')
 test();
